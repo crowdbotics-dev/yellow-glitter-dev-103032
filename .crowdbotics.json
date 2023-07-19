@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.3.0",
+    "cookiecutter_context": {
+      "project_name": "Yellow Glitter",
+      "project_slug": "yellow_glitter_dev_103032",
+      "project_dash_slug": "yellow-glitter-dev-103032",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "TST-fvaritniaf@aol.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
